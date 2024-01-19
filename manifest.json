@@ -3,8 +3,9 @@
     "authors": [
         "johnathanhawn - Made with AMP Config Generator"
     ],
-    "origin": "https://github.com/johnathanhawn - Made with AMP Config Generator/AMPTemplates.git",
-    "url": "https://github.com/johnathanhawn - Made with AMP Config Generator/AMPTemplates",
+	"origin": "https://github.com/johnathan.hawn/PalworldAmpConfig.git",
+    "url": "https://github.com/johnathan.hawn/PalworldAmpConfig - Made with AMP Config Generator/AMPTemplates",
     "imagefile": "",
-    "prefix": "johnathanhawn - Made with AMP Config Generator"
+    "prefix": "johnathanhawn - Made with AMP Config Generator",
+	"repotype": "AppTemplates"
 }
