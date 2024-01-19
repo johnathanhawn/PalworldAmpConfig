@@ -1,0 +1,7 @@
+[
+    {
+        "ConfigFile": "Config/WindowsServer/PalWorldSettings.ini",
+        "ConfigType": "ini",
+        "AutoMap": true
+    }
+]

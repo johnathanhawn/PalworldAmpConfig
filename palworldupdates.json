@@ -1,0 +1,14 @@
+[
+    {
+        "UpdateStageName": "Downloading game server",
+        "UpdateSourcePlatform": "Windows",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "21968319",
+        "UpdateSourceArgs": "2394010",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "ForceDownloadPlatform": "Windows",
+        "DeleteAfterExtract": true,
+        "OneShot": true
+    }
+]
